@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello world 👋, I'm Eleonora Melodia</h1>
 <h3 align="center">A passionate Jr. Fullstack Developer from Sicily 🍋</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 
 - 💻 I’m currently working on [Thrills](https://github.com/EleonoraMelodia/thrills-react-project)
