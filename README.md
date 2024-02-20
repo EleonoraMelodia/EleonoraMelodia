@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"> 
  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&duration=3000&pause=1000&color=22F799&random=false&width=435&lines=Hi+everyone+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Eleonora+Melodia" alt="Typing SVG" /></h1>
 <h3 align="center">A passionate Jr. Fullstack Developer from Sicily 🍋</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/WoX2Sy7.gif">
+<img align="right" alt="Coding" width="340" src="https://i.imgur.com/WoX2Sy7.gif">
 
 
 - 💻 I’m currently working on [Thrills](https://github.com/EleonoraMelodia/thrills-react-project)
