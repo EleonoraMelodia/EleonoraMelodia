@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="340" src="https://i.imgur.com/WoX2Sy7.gif">
 
 
-- 💻 I’m currently working on [Thrills](https://github.com/EleonoraMelodia/thrills-react-project)
+- 💻 I’m currently working on [Ramen Rush](https://github.com/EleonoraMelodia/RamenRush)
 - 🌱 I’m currently learning **Angular**
 - 📍 Open to moving anywhere in Italy and Europe
 - 🚀 Eager to start my career in this magical world!
